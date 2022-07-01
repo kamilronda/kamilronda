@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![GitHub Snake Light](https://github.com/kamilronda/kamilronda/blob/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/kamilronda/kamilronda/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+
 <!--
 **kamilronda/kamilronda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
