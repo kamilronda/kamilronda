@@ -14,5 +14,5 @@
             # Use this username's contribution graph  
             user_name: kamilronda
             # Text on contribution graph 
-            text: Kamil Ronda
+            text: Welcome
        - uses: kamilronda/simple-push-action@v1
