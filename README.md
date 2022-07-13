@@ -15,10 +15,10 @@
 ## 💬 Connect with me
 
 <p align="left">
-<a href="mailto:kamil.ronda@gmail.com" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-256.png" alt="kamilronda" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/kamilronda/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="kamilronda" height="30" width="40" /></a>
-<a href="https://instagram.com/kamil.ronda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kamilronda" height="30" width="40" /></a>
- <a href="https://discordapp.com/users/319991694319681537" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kamilronda" height="30" width="40" /></a>
+<a href="mailto:kamil.ronda@gmail.com" target="_blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-256.png" alt="kamilronda" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/kamilronda/" target="_blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="kamilronda" height="30" width="40" /></a>
+<a href="https://instagram.com/kamil.ronda" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kamilronda" height="30" width="40" /></a>
+ <a href="https://discordapp.com/users/319991694319681537" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kamilronda" height="30" width="40" /></a>
 </p>
 
 
