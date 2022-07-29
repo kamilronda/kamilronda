@@ -5,8 +5,7 @@
 
 ![gitartwork](gitartwork.svg)
 
-<h2>I'm Kamil 👋</h2> 
-<p> A work in progress front end developer, passionate about the world of technology and new trends. </p>
+<h2>I'm Kamil 👋</h2>
 
 ## 🛠️ Skills
 
